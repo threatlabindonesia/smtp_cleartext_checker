@@ -9,7 +9,7 @@ from tqdm import tqdm
 BANNER = """
 ############################################
 #   SMTP Cleartext Login Permitted Tester  #
-#         Developed by YourName            #
+#         Developed by Afif                #
 ############################################
 """
 
